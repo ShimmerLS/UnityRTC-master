@@ -240,20 +240,6 @@ the demo you can refer to：https://docs.starrtc.com/en/download/
 =====
 You can open the configuration file named starrtc.conf and modify the value of aecurl (the server does not support https address currently). Please refer to the demo in the server-api directory for development.
 
-Contact
-=====
-QQ ： 2162498688
-
-E-mail：<a href="mailto:support@starRTC.com">support@starRTC.com</a>
-
-Phone number: 186-1294-6552
-
-Wechat：starRTC
-
-QQ group ID：807242783
-
-If you encounter problems, please  refer to the page  https://github.com/starrtc/starrtc-server/wiki firstly, If you still can't solve the problem by adding the QQ group to feedback the problem.
-
 Changelog
 =====
 https://github.com/starrtc/starrtc-server/wiki/Changelog
